@@ -1,0 +1,8 @@
+opencv-python~=4.9.0.80
+tensorflow~=2.15.0
+pillow~=10.2.0
+setuptools~=65.5.1
+numpy~=1.26.3
+keras~=2.15.0
+mtcnn~=0.1.1
+dlib~=19.24.2
